@@ -1,0 +1,26 @@
+h1 {
+  font-weight: 700;
+  font-size: 42px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+input {
+  width: 100%;
+}
+
+.items-container {
+  text-align: left;
+}
+
+.apptodo {
+  text-align: left;
+}
+
+.td-row {
+  margin: 10px 5px;
+}
+
+.td-button {
+  min-width: 80px;
+}
